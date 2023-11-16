@@ -1,2 +1,2 @@
 # NodejsPractice
-This contain all practice program of nodejs
+This repository contains all practice program of nodejs
